@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have many commendable attributes, namely that I am: **beautiful**, **funny**, **interesting**, **loving**, and have __*great*__ taste in music.
