@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- audre lorde
+- pat parker
+- toni morrison
+- june jordan
+- alice walker
