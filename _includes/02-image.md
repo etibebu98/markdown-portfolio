@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![photo of a string of bleeding hearts flower](https://www.thespruce.com/thmb/HJ25Z1Vqyu4HTcZ5UAiqlqr2LiI=/2855x2855/smart/filters:no_upscale()/bleeding-hearts-whimsical-dicentra-2132547-01-d35584abc43341cf8246d31fe5ac4352.jpg)
