@@ -1,0 +1,5 @@
+- audre lorde
+- pat parker
+- toni morrison
+- june jordan
+- alice walker
